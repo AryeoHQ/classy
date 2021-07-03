@@ -1,2 +1,2 @@
-# classy
+# Aryeo Classy
 Aryeo Image Classifer
